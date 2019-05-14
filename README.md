@@ -1,7 +1,7 @@
 EGG-Project
 ===================
 
-This is the source code for the paper titled "An Elite Gene Guided Reproduction Operator for Many-objective Optimization".
+This is the source code for the paper titled "An Elite Gene Guided Reproduction Operator for Many-objective Optimization". This java code is based on the jMetal framework (http://jmetal.sourceforge.net/).
 
 Usage
 -------------------
