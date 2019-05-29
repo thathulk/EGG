@@ -1,6 +1,6 @@
 # EGG-Project
 
-This is the source code for the paper titled "An Elite Gene Guided Reproduction Operator for Many-objective Optimization". This java project contains the detailed implementation of EGG to the framework of MOEA/D, NSGA-III, SPEA2-SDE, and $\theta$-DEA. This code is based on the jMetal framework (http://jmetal.sourceforge.net/).
+This is the source code for the paper titled "An Elite Gene Guided Reproduction Operator for Many-objective Optimization". This java project contains the detailed implementation of EGG to the framework of MOEA/D, NSGA-III, SPEA2-SDE, and $\theta$-DEA.
 
 ## Getting Started
 These instructions will get you a compy of the project up and running on your local machine for development and testing purposes.
@@ -10,7 +10,7 @@ These instructions will get you a compy of the project up and running on your lo
 Java SE Runtime Environment 8 is recommended.
 
 #### jMetal
-Our experiment is implemented on the jMetal 4.5 framework. Using other version of jMetal is not recommended.
+Our experiment is implemented on the jMetal 4.5 framework, which can be download from (http://jmetal.sourceforge.net/). Using other version of jMetal is not recommended.
 
 ### Project Structure and Installation
 This project is implemented with Eclipse. So it is recommended that users also use this IDE to run the project.
