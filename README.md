@@ -27,7 +27,7 @@ There are two important directories in the project.
 4. Add library "Jama-1.0.2.jar" to the project.
 
 ## Running the tests
-This section discusses how to reproduce the experiments. The comparison between DE, SBX, EP, and EGG on the framework MOEA/D is illustrated.
+This section discusses how to reproduce the experiments in our paper. The comparison between DE, SBX, EP, and EGG on the framework MOEA/D is illustrated.
 
 1. Run the code to obtain final results of SBX, DE and EGG in different frameworks MOEA/D. The final solutions are saved in the corresponding folder in "results".
 2. Obtain results of EP from https://github.com/hxyokokok/EPDE
